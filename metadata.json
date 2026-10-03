@@ -1,0 +1,10 @@
+{
+  "name": "Matshelonyana - Goods & Haulage Transport",
+  "description": "Goods & heavy furniture haulage platform with inDrive-style bidding, real-time GPS tracking, automated scheduling, secure escrow payments, and digital logistics ledger.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
